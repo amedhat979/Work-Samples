@@ -1,7 +1,7 @@
 # Work-Samples
 
 ## 1. COVID-19 Simulation Report.pdf
-A detailed written report of the COVID-19 SEIR (Susceptible–Exposed–Infectious–Recovered) simulation project. Explains the methodology, mathematical modeling, simulation results, and conclusions.
+A detailed written report of the COVID-19 SEIR simulation project. Explains the methodology, mathematical modeling, simulation results, and conclusions.
 
 ## 2. SEIR_Model.ipynb
 Jupyter Notebook containing the Python code implementation of the COVID-19 SEIR model. Includes equations, numerical solutions, and visualizations corresponding to the project report above.
