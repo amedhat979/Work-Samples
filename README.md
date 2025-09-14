@@ -10,4 +10,4 @@ Jupyter Notebook containing the Python code implementation of the COVID-19 SEIR 
 Extract from my Bachelor’s thesis. This chapter discusses control strategies for VTOL drones.
 
 ## 4. Report on Modeling of a Flexible Robot Joint.pdf
-Independent project report analyzing the modeling of a flexible robot joint. Covers system equations, simulation methods, and insights into joint elasticity and dynamics.
+Project report analyzing the modeling of a flexible robot joint. Covers system equations, simulation methods, and insights into joint elasticity and dynamics.
